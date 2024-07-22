@@ -4,11 +4,12 @@
 I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engineering in Computer Science at BITS Pilani Dubai Campus, class of 2027. I am currently learning new things in Web development.
 
 ## 🛠️ Skills
-- **Programming Languages**:  
-- [![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- **Frameworks & Libraries**: Tailwind CSS
-- **Tools**: Git, VS Code
-- **Other**: Cybersecurity, Web Development
+**Programming Languages**:  
+[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+**Frameworks & Libraries**:  
+[![](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+**Tools**: 
+[![](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ## 🌱 Learning and Goals
 - Currently learning about digital payment systems for a fintech workshop.
