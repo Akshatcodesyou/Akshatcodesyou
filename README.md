@@ -15,15 +15,11 @@ I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engin
 **Currently learning**  
 [![](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
 **Next Goals**  
-[![](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) 
-
-## 📫 How to Reach Me
-**Email**: [singhakshat511@gmail.com](mailto:singhakshat511@gmail.com)
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-**Twitter**: [@yourusername](https://twitter.com/yourusername)
+[![](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
 
 ## 📊 GitHub Stats
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshat-singh-5a2887200/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshat-singh-5a2887200/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhakshat511@gmail.com)
