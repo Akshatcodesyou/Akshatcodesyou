@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Akshat Singh
+###Hi, I am Akshat
+
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning Javascript and react
 - 💞️ I’m looking to collaborate on Javascript projects
