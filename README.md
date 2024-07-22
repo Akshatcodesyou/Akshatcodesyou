@@ -5,11 +5,11 @@ I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engin
 
 ## 🛠️ Skills
 **Programming Languages**:  
-[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
 **Frameworks & Libraries**:  
-[![](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-**Tools**: 
-[![](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  
+**Tools**:  
+[![](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
 
 ## 🌱 Learning and Goals
 - Currently learning about digital payment systems for a fintech workshop.
