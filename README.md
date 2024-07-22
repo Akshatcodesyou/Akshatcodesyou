@@ -1,7 +1,7 @@
-###Hi, I am Akshat
+### Hi, I am Akshat
 
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Javascript and react
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 You can reach me on my Instagram @akshatlovesyou, other socials on akshatcodesyou.github.io
 
