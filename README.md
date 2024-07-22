@@ -1,11 +1,26 @@
-### Hi, I am Akshat
+# Hi there, I'm Akshat Singh! 👋
 
-- 👀 I’m interested in Web dev
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- 💞️ I’m looking to collaborate on Javascript projects
-- 📫 You can reach me on my Instagram @akshatlovesyou, other socials on akshatcodesyou.github.io
+## 👨‍💻 About Me
+I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engineering in Computer Science at BITS Pilani Dubai Campus, class of 2027. I am currently learning new things in Web development.
 
-<!---
-Akshatcodesyou/Akshatcodesyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills
+- **Programming Languages**: [![Programming Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Frameworks & Libraries**: Tailwind CSS
+- **Tools**: Git, VS Code
+- **Other**: Cybersecurity, Web Development
+
+## 🌱 Learning and Goals
+- Currently learning about digital payment systems for a fintech workshop.
+- Aiming to become the CEO of a MAANG company in the future.
+
+## 📫 How to Reach Me
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+
+## 📊 GitHub Stats
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
