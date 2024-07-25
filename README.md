@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me
 I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engineering in Computer Science at BITS Pilani Dubai Campus, class of 2027. I am currently learning new things in Web development.
-[![](akshatcodesyou.github.io)]
 
 ## 🛠️ Skills
 **Programming Languages**:  
@@ -24,3 +23,4 @@ I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engin
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshat-singh-5a2887200/))  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhakshat511@gmail.com)
+
