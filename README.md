@@ -2,6 +2,7 @@
 
 ## 👨‍💻 About Me
 I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engineering in Computer Science at BITS Pilani Dubai Campus, class of 2027. I am currently learning new things in Web development.
+[![](akshatcodesyou.github.io)]
 
 ## 🛠️ Skills
 **Programming Languages**:  
