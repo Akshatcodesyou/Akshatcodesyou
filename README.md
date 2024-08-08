@@ -6,12 +6,12 @@ I'm an aspiring software engineer based in Dubai, pursuing a Bachelor's of Engin
 ## 🛠️ Skills
 **Programming Languages**:  
 [![](https://skillicons.dev/icons?i=c,js,html,css)](https://skillicons.dev)  
-**Frameworks & Libraries**:  
-[![](https://skillicons.dev/icons?i=tailwind,react,next)](https://skillicons.dev)  
+**Frameworks, Libraries, UI**:  
+[![](https://skillicons.dev/icons?i=tailwind,react,next,vite,materialui)](https://skillicons.dev)  
 **Backend & Deployment**:  
 [![](https://skillicons.dev/icons?i=firebase,vercel)](https://skillicons.dev)  
 **Tools**:  
-[![](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)  
 
 ## 🌱 Learning and Goals
 **Currently learning**  
